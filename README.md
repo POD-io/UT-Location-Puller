@@ -5,6 +5,10 @@ You can print the results to the terminal or write them to a file.
 
 To use:
 Replace slot_name, port, and exe_path with your own.
+Leave password as 'None', or add your password in quotes if server has one.
 Run the script after the AP session is active.
+Comment/uncomment the sections for terminal output and writing to a file as desired.
 
-Optional: Hook it into a live display, Discord bot, etc.
+Optional: Hook it into a live display, Discord bot, etc..
+
+The current version looks at servers running on archipelago.gg, but can be easily adjusted for local servers.
