@@ -12,3 +12,6 @@ Comment/uncomment the sections for terminal output and writing to a file as desi
 Optional: Hook it into a live display, Discord bot, etc..
 
 The current version looks at servers running on archipelago.gg, but can be easily adjusted for local servers.
+
+Format: ArchipelagoLauncherDebug.exe "Universal Tracker" -- --nogui --list archipelago://[slot]:[password or 'None']@archipelago.gg:[port]
+Example: ArchipelagoLauncherDebug.exe "Universal Tracker" -- --nogui --list archipelago://MyOuterWildsSlot:None@archipelago.gg:12345
